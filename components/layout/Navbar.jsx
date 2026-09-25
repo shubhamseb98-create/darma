@@ -63,7 +63,7 @@ export default function Navbar() {
           top: rect.top + scrollTop - navOffset,
           behavior: "smooth"
         });
-      }
+      }       
     }
   };
 
